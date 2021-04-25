@@ -1,0 +1,16 @@
+Analysis & Synthesis Status : Successful - Sat Apr 24 21:42:23 2021
+Quartus II 64-Bit Version : 13.0.1 Build 232 06/12/2013 SP 1 SJ Full Version
+Revision Name : pfl_top
+Top-level Entity Name : parallel_flash_loader
+Family : Stratix III
+Logic utilization : N/A
+    Combinational ALUTs : 216
+    Memory ALUTs : 0
+    Dedicated logic registers : 198
+Total registers : 198
+Total pins : 47
+Total virtual pins : 0
+Total block memory bits : 0
+DSP block 18-bit elements : 0
+Total PLLs : 0
+Total DLLs : 0

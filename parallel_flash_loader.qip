@@ -1,0 +1,8 @@
+set_global_assignment -name IP_TOOL_NAME "Parallel Flash Loader"
+set_global_assignment -name IP_TOOL_VERSION "13.0"
+set_global_assignment -name VERILOG_FILE [file join $::quartus(qip_path) "parallel_flash_loader.v"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "parallel_flash_loader.bsf"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "parallel_flash_loader_inst.v"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "parallel_flash_loader_bb.v"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "parallel_flash_loader.inc"]
+set_global_assignment -name MISC_FILE [file join $::quartus(qip_path) "parallel_flash_loader.cmp"]
